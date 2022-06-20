@@ -3,7 +3,7 @@
 Kodluyoruz Eğitimi için Bootstrap konusunda ikinci ödevim.
 
 Aşağıdaki ekran görüntüsü yer almaktadır.
-![Ekran Görüntüsü](img/Screenshot_1.gif)
+![Ekran Görüntüsü](img/Screenshot_1.png)
 
 ## Instagram Clone Çalışması
 # Verilen ödevdeki tüm istenenler clone üzerinde tamamlandı.
